@@ -5,7 +5,6 @@ backcall==0.2.0
 bleach==3.2.1
 certifi==2020.6.20
 cffi==1.14.3
-colorama==0.4.4
 cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
@@ -38,19 +37,19 @@ packaging==20.4
 pandas==1.1.4
 pandocfilters==1.4.3
 parso==0.7.1
+pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.0.1
 plotly==4.12.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.8
+ptyprocess==0.6.0
 pycparser==2.20
 Pygments==2.7.2
 pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2020.4
-pywin32==228
-pywinpty==0.5.7
 pyzmq==19.0.2
 qtconsole==4.7.7
 QtPy==1.9.0
@@ -68,5 +67,4 @@ traitlets==5.0.5
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
-wincertstore==0.2
 zipp==3.4.0
